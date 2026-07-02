@@ -1,19 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
 # Virtual Environment
 .venv/
+venv/
 
-# Python Cache
-__pycache__/
-*.pyc
-
-# Jupyter Notebook Checkpoints
-.ipynb_checkpoints/
-
-# VS Code Settings
+# VS Code
 .vscode/
 
-# Model Files
-*.pkl
+# Jupyter
+.ipynb_checkpoints/
 
-# System Files
+# OS Files
 .DS_Store
 Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
