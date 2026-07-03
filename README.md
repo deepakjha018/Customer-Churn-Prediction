@@ -1,5 +1,12 @@
 # 📊 Customer Churn Prediction Dashboard
 
+## 🚀 Live Demo
+
+🔗 Try the application here:
+
+https://customer-churn-predictor-vk18.streamlit.app/
+
+![Machine Learning](https://img.shields.io/badge/ML-Gradient%20Boosting-green)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
@@ -369,6 +376,19 @@ streamlit run app/app.py
 
 
 ---
+
+## 🌐 Deployment
+
+The application is deployed using Streamlit Cloud.
+
+Deployment workflow:
+
+1. Source code pushed to GitHub
+2. Streamlit Cloud connected with repository
+3. Python environment configured
+4. Dependencies installed from requirements.txt
+5. Application served using Streamlit
+
 
 # 📌 Key Features
 
